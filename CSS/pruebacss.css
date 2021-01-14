@@ -204,22 +204,6 @@ h1 {
   grid-template-areas: "buscador pdf pdf"
  "buscador ahorra video"; }
 
-#grilla .pdf {
-  background-color: #985F68;
-  grid-area: pdf; }
-
-#grilla .ahorra {
-  background-color: #B0B0B0;
-  grid-area: ahorra; }
-
-#grilla .video {
-  background-color: #7E9680;
-  grid-area: video; }
-
-#grilla .buscador {
-  background-color: #FFD0B6;
-  grid-area: buscador; }
-
 .foter {
   display: flex;
   flex-direction: column;
